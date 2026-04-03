@@ -16,22 +16,14 @@ I'm **Harshavardhan Vemali**
 
 ### Tech Stack
 
-**Languages**
-<p> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" /> </p>
-
-**Backend & APIs**
-<p> <img src="https://skillicons.dev/icons?i=django,fastapi,redis,postgres,nginx,linux" /> </p>
-
-**Frontend**
-<p> <img src="https://skillicons.dev/icons?i=react,vue,tailwind" /> </p>
-
-**Cloud, DevOps & Tools**
-<p> <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,github,githubactions,raspberrypi" /> </p>
-
-**AI & LLM Integrations**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,redis,postgres,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,github,githubactions,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />  
+</p>
+<p>
   <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" height="48"/>
@@ -43,21 +35,18 @@ I'm **Harshavardhan Vemali**
 
 <p>
   <a href="https://hacksphere.in/">
-    <img src="hacksphere.png" width="49%" />
+    <img src="hacksphere.png" width="24%" />
   </a>
   <a href="https://jntua.campusstay.techeduspace.com/">
-    <img src="campusstay.png" width="49%" />
+    <img src="campusstay.png" width="24%" />
   </a>
-  
-</p>
-
-<p>
   <a href="https://demo.workwallet.thehps.in/">
-    <img src="workwallet.png" width="49%" />
+    <img src="workwallet.png" width="24%" />
   </a>
   <a href="https://thehps.in/">
-    <img src="hps.png" width="49%" />
+    <img src="hps.png" width="24%" />
   </a>
+  
 </p>
 
 
