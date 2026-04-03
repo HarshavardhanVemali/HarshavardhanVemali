@@ -46,7 +46,7 @@ I'm **Harshavardhan Vemali**
     <img src="workwallet.png" width="49%" />
   </a>
   <a href="https://thehps.in/">
-    <img src="hps.png" width="94%" />
+    <img src="hps.png" width="49%" />
   </a>
 </p>
 
