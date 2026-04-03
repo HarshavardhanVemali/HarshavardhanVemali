@@ -35,21 +35,20 @@ I'm **Harshavardhan Vemali**
 
 <p>
   <a href="https://hacksphere.in/">
-    <img src="hacksphere.png" width="24%" />
+    <img src="hacksphere.png" width="49%" />
   </a>
   <a href="https://jntua.campusstay.techeduspace.com/">
-    <img src="campusstay.png" width="24%" />
-  </a>
+    <img src="campusstay.png" width="49%" />
+  </a>  
+</p>
+<p>
   <a href="https://demo.workwallet.thehps.in/">
-    <img src="workwallet.png" width="24%" />
+    <img src="workwallet.png" width="49%" />
   </a>
   <a href="https://thehps.in/">
-    <img src="hps.png" width="24%" />
+    <img src="hps.png" width="94%" />
   </a>
-  
 </p>
-
-
 
 ### Achievements
 <p>
