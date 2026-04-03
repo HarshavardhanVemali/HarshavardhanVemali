@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm **Harshavardhan Vemali**
+
 [![Gmail](https://img.shields.io/badge/vemalivardhan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vemalivardhan@gmail.com)
 [![GitHub](https://img.shields.io/badge/HarshavardhanVemali-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshavardhanVemali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshavardhan-vemali-334976259)
@@ -13,12 +14,22 @@ I'm **Harshavardhan Vemali**
 - Final year B.Tech CSE @ **MVGR College of Engineering** · CGPA 8.68 / 10
 - Open to full-time roles in **Backend · Full-Stack · AI/LLM Engineering**
 
-### Stack I have been working on
+### Tech Stack
+
+**Languages**
+<p> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" /> </p>
+
+**Backend & APIs**
+<p> <img src="https://skillicons.dev/icons?i=django,fastapi,redis,postgres,nginx,linux" /> </p>
+
+**Frontend**
+<p> <img src="https://skillicons.dev/icons?i=react,vue,tailwind" /> </p>
+
+**Cloud, DevOps & Tools**
+<p> <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,github,githubactions,raspberrypi" /> </p>
+
+**AI & LLM Integrations**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-  <img src="https://skillicons.dev/icons?i=django,fastapi,redis,postgres,nginx,linux" />
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
-  <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,github,githubactions,raspberrypi" />
   <img src="https://skillicons.dev/icons?i=tensorflow" />
   &nbsp;
   <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
